@@ -233,3 +233,4 @@ CI.sim <- CI.sims(n = n,
 population_correlation <- rho  # this is true in the normal setting
 coverage <- mean((CI.sim[,1]< population_correlation) * (CI.sim[,2]> population_correlation))
 }
+wesh
