@@ -17,7 +17,7 @@ gen_discrete <- function(n, muX=0, muY=0, sX=1, sY=1, rho=0){
   return(df)
 }
 pato
-
+MAAADDONNA
 
 # Generate data with outliers
 gen_outliers <- function(n, muX=0, muY=0, sX=1, sY=1, rho=0, out=0.05, dev=1){
