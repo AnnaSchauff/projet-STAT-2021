@@ -16,6 +16,7 @@ gen_discrete <- function(n, muX=0, muY=0, sX=1, sY=1, rho=0){
   df <- data.frame(x=trunc(x*5)/5, y=trunc(y*5)/5)
   return(df)
 }
+pato
 
 
 # Generate data with outliers
