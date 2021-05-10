@@ -6,6 +6,7 @@ gen_normal <- function(n, muX=0, muY=0, sX=1, sY=1, rho=0){
   df <- data.frame(x=x, y=y)
   return(df)
 }
+hi gorgeous!!!
 
 # Generate Discretized Bivariate Gaussian Observations
 gen_discrete <- function(n, muX=0, muY=0, sX=1, sY=1, rho=0){
